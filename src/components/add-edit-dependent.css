@@ -1,0 +1,15 @@
+.add-edit-dependent-form {
+  display: grid;
+  gap: 10px;
+  justify-self: center;
+  max-width: 300px;
+  place-items: end;
+}
+
+.add-edit-dependent-form input {
+  margin-left: 12px;
+}
+
+.add-edit-dependent-header {
+  margin-top: 0px;
+}

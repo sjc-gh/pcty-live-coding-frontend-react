@@ -1,0 +1,9 @@
+.app-parent {
+  display: flex;
+  flex-direction: row;
+}
+
+.app-child-list {
+  flex: 1;
+  padding: 20px;
+}

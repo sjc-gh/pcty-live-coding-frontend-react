@@ -1,0 +1,25 @@
+.cost-per-paycheck {
+  margin-top: 40px;
+}
+
+.dependent-add-button {
+  margin-bottom: 40px;
+}
+
+.dependent-table {
+  border-collapse: collapse;
+  text-align: left;
+  user-select: none;
+}
+
+.dependent-table td,th {
+  padding-right: 12px;
+}
+
+.dependent-table-parent {
+  overflow-y: scroll;
+}
+
+.save-dependents {
+  margin-top: 20px;
+}

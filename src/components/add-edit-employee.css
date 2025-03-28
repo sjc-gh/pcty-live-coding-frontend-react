@@ -1,0 +1,15 @@
+.add-edit-employee-form {
+  display: grid;
+  gap: 10px;
+  justify-self: center;
+  max-width: 300px;
+  place-items: end;
+}
+
+.add-edit-employee-form input {
+  margin-left: 12px;
+}
+
+.add-edit-employee-header {
+  margin-top: 0px;
+}

@@ -1,0 +1,21 @@
+.employee-add-button {
+  margin-bottom: 40px;
+}
+
+.employee-table {
+  border-collapse: collapse;
+  text-align: left;
+  user-select: none;
+}
+
+.employee-table td {
+  padding-right: 12px;
+}
+
+.employee-table-parent {
+  overflow-y: scroll;
+}
+
+.selected {
+  background-color: lightsteelblue;
+}
